@@ -10,6 +10,8 @@
 }
 
 body {
+    overflow: hidden;
+    /* Désactive le scroll */
     font-family: 'River Adventurer', sans-serif;
     background: url('bg.png') no-repeat center center fixed;
     background-size: cover;
